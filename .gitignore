@@ -1,7 +1,17 @@
-Maui_ShareExtension_Intune_App/MauiApp/bin
-Maui_ShareExtension_Intune_App/MauiApp/obj
-Maui_ShareExtension_Intune_App\MauiApp\bin
-Maui_ShareExtension_Intune_App\MauiApp\obj
+MauiApp/bin
+MauiApp/obj
+MauiApp\bin
+MauiApp\obj
+
+ShareExtensions\ShareExtensionXamarinApp\ShareExtensionXamarinApp\bin
+ShareExtensions\ShareExtensionXamarinApp\ShareExtensionXamarinApp\obj
+ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/bin
+ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/obj
+
+ShareExtensions\ShareExtensionXamarinApp\ShareExtension\bin
+ShareExtensions\ShareExtensionXamarinApp\ShareExtension\obj
+ShareExtensions/ShareExtensionXamarinApp/ShareExtension/bin
+ShareExtensions/ShareExtensionXamarinApp/ShareExtension/obj
 
 .vs
 .vscode

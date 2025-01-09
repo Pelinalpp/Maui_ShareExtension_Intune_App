@@ -12,36 +12,38 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MauiApp
-build_property.ProjectDir = /Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/
+build_property.ProjectDir = C:\Users\Mobile-Pc-Pelin\Desktop\GitProjects\Maui_ShareExtension_Intune_App\MauiApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/App.xaml]
+[C:/Users/Mobile-Pc-Pelin/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/AppShell.xaml]
+[C:/Users/Mobile-Pc-Pelin/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/MainPage.xaml]
+[C:/Users/Mobile-Pc-Pelin/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/Resources/Styles/Colors.xaml]
+[C:/Users/Mobile-Pc-Pelin/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[/Users/emredemiray/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/Resources/Styles/Styles.xaml]
+[C:/Users/Mobile-Pc-Pelin/Desktop/GitProjects/Maui_ShareExtension_Intune_App/MauiApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
