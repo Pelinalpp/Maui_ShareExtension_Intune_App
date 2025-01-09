@@ -1,0 +1,9 @@
+Maui_ShareExtension_Intune_App/MauiApp/bin
+Maui_ShareExtension_Intune_App/MauiApp/obj
+Maui_ShareExtension_Intune_App\MauiApp\bin
+Maui_ShareExtension_Intune_App\MauiApp\obj
+
+.vs
+.vscode
+.*.user
+.DS_Store
