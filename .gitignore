@@ -8,10 +8,10 @@ ShareExtensions\ShareExtensionXamarinApp\ShareExtensionXamarinApp\obj
 ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/bin
 ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/obj
 
-ShareExtensions\ShareExtensionXamarinApp\ShareExtension\bin
-ShareExtensions\ShareExtensionXamarinApp\ShareExtension\obj
-ShareExtensions/ShareExtensionXamarinApp/ShareExtension/bin
-ShareExtensions/ShareExtensionXamarinApp/ShareExtension/obj
+ShareExtensions\ShareExtension\ShareExtension\bin
+ShareExtensions\ShareExtension\ShareExtension\obj
+ShareExtensions/ShareExtension/ShareExtension/bin
+ShareExtensions/ShareExtension/ShareExtension/obj
 
 .vs
 .vscode

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp", "MauiApp\MauiApp.csproj", "{A63AB48F-23B2-4B6C-9F4A-4BB218B6E9F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareExtension", "ShareExtensions\ShareExtensionXamarinApp\ShareExtension\ShareExtension.csproj", "{BE2FC360-997C-47A7-ACC3-9297B12CBA2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareExtension", "ShareExtensions\ShareExtension\ShareExtension\ShareExtension.csproj", "{92BA3F7D-5D3F-4B2D-84C3-7DE394895D5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A63AB48F-23B2-4B6C-9F4A-4BB218B6E9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A63AB48F-23B2-4B6C-9F4A-4BB218B6E9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A63AB48F-23B2-4B6C-9F4A-4BB218B6E9F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BE2FC360-997C-47A7-ACC3-9297B12CBA2E}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{BE2FC360-997C-47A7-ACC3-9297B12CBA2E}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
-		{BE2FC360-997C-47A7-ACC3-9297B12CBA2E}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
-		{BE2FC360-997C-47A7-ACC3-9297B12CBA2E}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{92BA3F7D-5D3F-4B2D-84C3-7DE394895D5C}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{92BA3F7D-5D3F-4B2D-84C3-7DE394895D5C}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{92BA3F7D-5D3F-4B2D-84C3-7DE394895D5C}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{92BA3F7D-5D3F-4B2D-84C3-7DE394895D5C}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
