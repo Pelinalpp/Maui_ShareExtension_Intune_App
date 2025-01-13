@@ -14,9 +14,11 @@ namespace MauiApplication
             MainPage = new AppShell();
         }
 
-        protected override void OnAppLinkRequestReceived(Uri uri)
+        protected override async void OnAppLinkRequestReceived(Uri uri)
         {
             base.OnAppLinkRequestReceived(uri);
+
+            await Task.Delay(2000);
 
             if(App.Current.MainPage is AppShell appShell)
             {
