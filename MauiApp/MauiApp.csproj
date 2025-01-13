@@ -13,7 +13,7 @@
 		<ApplicationTitle>MauiApp</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.mauiapp</ApplicationId>
+		<ApplicationId>com.mauiapp</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -47,7 +47,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\ShareExtensions\ShareExtension\ShareExtension\ShareExtension.csproj" />
+		<ProjectReference Include="..\ShareExtension\ShareExtension\ShareExtension.csproj">
+			<IsAppExtension>true</IsAppExtension>
+			<IsWatchApp>false</IsWatchApp>
+		</ProjectReference>
 	</ItemGroup>
 
 </Project>

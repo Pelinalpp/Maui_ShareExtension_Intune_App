@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFrameworks>net8.0-ios</TargetFrameworks>
+        <RuntimeIdentifiers>ios-arm64</RuntimeIdentifiers>
+        <OutputType>Library</OutputType>
+		<ApplicationId>com.mauiapp.share</ApplicationId>
+		<Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <SupportedOSPlatformVersion>15.4</SupportedOSPlatformVersion>
+    </PropertyGroup>
+
+	<PropertyGroup>
+		<IsAppExtension>true</IsAppExtension>
+		<IsWatchApp>false</IsWatchApp>
+	</PropertyGroup>
+
+    <PropertyGroup>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    </PropertyGroup>
+  
+    <PropertyGroup>
+        <CreatePackage>false</CreatePackage>
+        <MtouchInterpreter>all</MtouchInterpreter>
+	</PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Remove="Resources\" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="Resources\" />
+    </ItemGroup>
+</Project>

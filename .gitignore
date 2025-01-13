@@ -1,17 +1,17 @@
-MauiApp/bin
-MauiApp/obj
-MauiApp\bin
-MauiApp\obj
+MauiApplication/bin
+MauiApplication/obj
+MauiApplication\bin
+MauiApplication\obj
 
-ShareExtensions\ShareExtensionXamarinApp\ShareExtensionXamarinApp\bin
-ShareExtensions\ShareExtensionXamarinApp\ShareExtensionXamarinApp\obj
-ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/bin
-ShareExtensions/ShareExtensionXamarinApp/ShareExtensionXamarinApp/obj
+ShareExtension\ShareExtension\bin
+ShareExtension\ShareExtension\obj
+ShareExtension/ShareExtension/bin
+ShareExtension/ShareExtension/obj
 
-ShareExtensions\ShareExtension\ShareExtension\bin
-ShareExtensions\ShareExtension\ShareExtension\obj
-ShareExtensions/ShareExtension/ShareExtension/bin
-ShareExtensions/ShareExtension/ShareExtension/obj
+ShareExtension\ShareExtensionXamarinApp\bin
+ShareExtension\ShareExtensionXamarinApp\obj
+ShareExtension/ShareExtensionXamarinApp/bin
+ShareExtension/ShareExtensionXamarinApp/obj
 
 .vs
 .vscode
