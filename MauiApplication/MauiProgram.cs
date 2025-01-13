@@ -19,6 +19,9 @@ namespace MauiApplication
     		builder.Logging.AddDebug();
 #endif
 
+            builder.Services.AddSingleton<MainPageViewModel>();
+            builder.Services.AddSingleton<MainPage>();
+
             return builder.Build();
         }
     }

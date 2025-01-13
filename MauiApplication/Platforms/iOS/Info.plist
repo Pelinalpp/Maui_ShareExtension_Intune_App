@@ -28,5 +28,22 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLIconFile</key>
+			<string>Icon-App-20</string>
+			<key>CFBundleURLName</key>
+			<string>com.mauiapp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.mauiapp</string>
+			</array>
+		</dict>
+	</array>
+
 </dict>
 </plist>
